@@ -7,3 +7,5 @@ Pour lancer le programme en utilisant Qt Creator, suivez les étapes suivantes :
 1) Téléchargez les fichiers de cette page dans le dossier souhaité;
 2) Ouvrez le logiciel Qt Creator et cliquez sur "Ouvrir projet" ;
 3) Selectionnez et executer ce fichier ;
+
+%%test (par Pengfei REN)
